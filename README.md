@@ -1,2 +1,3 @@
-# intermediateCPP
+# Intermediate Programming in C++
+
 
